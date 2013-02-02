@@ -20,7 +20,7 @@ If a program requires the system to continue operating even if no user is presen
 || *mode* || *effect* ||
 || system required || The computer may not automatically enter standby or hibernation. ||
 || display required || The display may not be turned off automatically. ||
-|| away mode required || The user may not (unintentionally) enter standby or hibernation. Instead, the screen will be turned off, and the audio muted. ||
+|| away mode required || The user may not (unintentionally) enter standby. Instead, the screen will be turned off, and the audio muted. Hibernation will work as usual. ||
 
 StayAwake can be used to set any of these modes for a specified amount of time.
 
